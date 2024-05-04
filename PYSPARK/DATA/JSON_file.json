@@ -1,0 +1,72 @@
+[
+    {
+        "Name": "John",
+        "Age": 28,
+        "Gender": "Male",
+        "Contact": {
+            "Phone": "123-456-7890",
+            "Email": "john@example.com"
+        },
+        "Address": {
+            "Street": "123 Main St",
+            "City": "New York",
+            "State": "NY"
+        }
+    },
+    {
+        "Name": "Jane",
+        "Age": 35,
+        "Gender": "Female",
+        "Contact": {
+            "Phone": "234-567-8901",
+            "Email": "jane@example.com"
+        },
+        "Address": {
+            "Street": "456 Elm St",
+            "City": "San Francisco",
+            "State": "CA"
+        }
+    },
+    {
+        "Name": "Alex",
+        "Age": 42,
+        "Gender": "Male",
+        "Contact": {
+            "Phone": "345-678-9012",
+            "Email": "alex@example.com"
+        },
+        "Address": {
+            "Street": "789 Oak St",
+            "City": "Chicago",
+            "State": "IL"
+        }
+    },
+    {
+        "Name": "Emma",
+        "Age": 29,
+        "Gender": "Female",
+        "Contact": {
+            "Phone": "456-789-0123",
+            "Email": "emma@example.com"
+        },
+        "Address": {
+            "Street": "321 Pine St",
+            "City": "Los Angeles",
+            "State": "CA"
+        }
+    },
+    {
+        "Name": "Michael",
+        "Age": 37,
+        "Gender": "Male",
+        "Contact": {
+            "Phone": "567-890-1234",
+            "Email": "michael@example.com"
+        },
+        "Address": {
+            "Street": "654 Cedar St",
+            "City": "Seattle",
+            "State": "WA"
+        }
+    }
+]
